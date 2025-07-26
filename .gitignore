@@ -1,0 +1,9 @@
+.next/
+node_modules/
+.idx/
+.env
+.env.local
+build/
+dist/
+logs/
+*.log
