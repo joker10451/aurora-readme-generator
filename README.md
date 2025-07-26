@@ -25,8 +25,9 @@ You need to have [Node.js](https://nodejs.org/) (version 18 or later) and npm in
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-   cd YOUR_REPOSITORY
+   git clone https://github.com/joker10451/aurora-readme-generator.git
+   cd aurora-readme-generator
+
    ```
 
 2. **Install NPM packages:**
